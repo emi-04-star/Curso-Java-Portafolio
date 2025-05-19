@@ -1,0 +1,2 @@
+Se produjo un error al leer el archivo 'errores.log':C:\\Users\\Emily\\OneDrive\\Documentos\\Curso JAVA\\Modulo 1\\Sesión 7\\Reto 2/registro_fallos.txt";
+\errores_mal.log
